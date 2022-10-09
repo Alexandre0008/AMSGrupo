@@ -13,7 +13,7 @@ internal class Program
         Console.Write("Digite os nomes dos times: ");
         string time = Console.ReadLine();
 
-        Console.Write("Digite a quantidade de times: ");
+        Console.Write("Digite as quantidade de times: ");
         int quant = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine();
